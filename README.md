@@ -26,7 +26,7 @@ live DEMO: https://trimindev.github.io/email-list/
       - return re-render
       
 - create function handleSubmit
-
+  - check if email had been added 
     - show notification, return
   - else push this email, show notification
   - return re-render
